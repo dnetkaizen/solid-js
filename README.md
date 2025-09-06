@@ -22,3 +22,10 @@
    - GestorPrestamos depende de abstracciones
    - No de implementaciones concretas
    - Fácil intercambiar comportamientos
+
+
+# PASOS DE EJECUCIÓN:
+
+   - git clone
+   - cd solid-js
+   - node app.js
