@@ -26,6 +26,6 @@
 
 # PASOS DE EJECUCIÓN:
 
-   - git clone
+   - git clone https://github.com/dnetkaizen/solid-js.git
    - cd solid-js
    - node app.js
